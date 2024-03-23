@@ -1,1 +1,1 @@
-A pathfinding snake algorithm deigned and creates on a variation of the A* pathfinding algorithm. game design based on Google's snake game, built using python's Pygame.
+A pathfinding snake algorithm deigned and creates on a variation of the A* pathfinding algorithm. 
